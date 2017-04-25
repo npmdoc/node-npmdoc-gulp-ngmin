@@ -1,4 +1,7 @@
-# api documentation for  [gulp-ngmin (v0.3.0)](https://github.com/sindresorhus/gulp-ngmin)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-ngmin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-ngmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-ngmin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-ngmin)
+# npmdoc-gulp-ngmin
+
+#### basic api documentation for  [gulp-ngmin (v0.3.0)](https://github.com/sindresorhus/gulp-ngmin)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-ngmin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-ngmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-ngmin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-ngmin)
+
 #### Pre-minify AngularJS apps with ngmin
 
 [![NPM](https://nodei.co/npm/gulp-ngmin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-ngmin)
@@ -74,7 +77,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.3.0"
+    "version": "0.3.0",
+    "bin": {}
 }
 ```
 
